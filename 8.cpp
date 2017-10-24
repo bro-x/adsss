@@ -1,7 +1,4 @@
-/*************************************************************/
-//Roll no.:-75
-//Program title:- Implementation of an AVL Tree 
-
+avl
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
