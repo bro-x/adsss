@@ -1,7 +1,3 @@
-/*Title_
-Roll_No_75
-Batch_A4
-*/
 import java.util.Random;
 public class Shell_Sort 
 {
